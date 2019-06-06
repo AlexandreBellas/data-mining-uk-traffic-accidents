@@ -1,7 +1,9 @@
 # Data mining in UK traffic accidents
 Applying data mining within a dataset that includes 1.6 million UK traffic accidents.<br>
 It is the second project of Artificial Intelligence subject from University of São Paulo.<br>
-The dataset was obtained in the site https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales.<br>
+## Dataset
+The dataset can be obtained at https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales.<br>
+## Contributors
 Developed by:
 * Alexandre Batistella Bellas
 * Guilherme dos Reis Meneguello
